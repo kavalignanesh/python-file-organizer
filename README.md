@@ -1,14 +1,11 @@
-# Python File Organizer 📂
+# Smart File Organizer 🚀
 
-This script automatically organizes files into folders based on their type.
+An advanced Python automation script that organizes files dynamically based on type.
 
 ## Features
-- Sorts images, documents, and videos
-- Automatically creates folders
-- Simple and efficient
+- Dynamic file categorization
+- Duplicate file handling
+- Automated folder creation
 
-## Tech Used
+## Tech
 - Python
-
-## How to Run
-python organizer.py
